@@ -44,3 +44,20 @@ console.log(c>0 && d>0 )
 console.log(c>0 && d<0 )
 console.log(c<0 && d<0 )
 console.log(!(a>0))
+
+
+console.log("------------------------------------")
+console.log(" Unary operators")
+var e =30
+console.log(e++)
+console.log(++e)
+console.log(e--)
+console.log(--e)
+
+
+console.log("------------------------------------")
+console.log("ternary operators")
+f = 60
+h = 20
+var result =(f>h)?"is a greater":"b is greater "
+console.log(result)
