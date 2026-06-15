@@ -1,4 +1,4 @@
-let days = 8
+let days = 4
 switch(days){
     case 1 :
         console.log("sunday")
