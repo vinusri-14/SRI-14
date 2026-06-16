@@ -34,6 +34,8 @@ console.log(third)
 
 //spread operator
 
+const student = ["vinu", "rithika"]
+
 const updatedstudent =[ 
     ...student ,
     "sangavi"
